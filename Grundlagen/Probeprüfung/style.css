@@ -1,0 +1,27 @@
+.html-output {
+    margin-left:20px;
+    padding:5px;
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+}
+
+.exercise {
+    margin:0px;
+    padding:10px;
+    border-style:solid;
+    border-width:2px;
+    border-color:green;
+}
+
+.exercise_image {
+    float:right;
+    width:75px;
+}
+
+.exercise_label {
+    padding:5px;
+    border-radius:5px;
+    background-color:green;
+    color:white;
+}
