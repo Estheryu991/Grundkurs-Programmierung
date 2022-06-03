@@ -1,4 +1,4 @@
-# ML Ops with GitHub Actions and AML
+# Grundkurs Programmieren Jupyter Notebook 
 
 <p align="center">
   <img src="docs/images/aml.png" height="80"/>
@@ -8,16 +8,18 @@
 
 This template shows the more extensive capabilities of using [GitHub Actions](https://github.com/features/actions) with [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/) managing a machine learning project with automated training and deployment. For a more simplified version of this automated pipeline, see the [ml-template-azure](https://github.com/machine-learning-apps/ml-template-azure) repository. 
 
-# Getting started
+# Erste Stock 
 
-### 1. Prerequisites
+### 1. Wie? 
 
-The following prerequisites are required to make this repository work:
-- Azure subscription
-- Contributor access to the Azure subscription
-- Access to [GitHub Actions](https://github.com/features/actions)
+* Starten Sie Jupyter Lab wie gewohnt
+* Öffnen Sie dann unter "notebooks/Probepruefung" das Notebook "Probepruefung_FS22.ipynb"
+* Lösen Sie die Aufgaben durch ergänzung mit Quelltext an den entsprechenden Orten
+* **Speichern** Sie ihr Notebook
+* Laden Sie das gespeicherte Notebook auf ihren Computer
+* Geben Sie das heruntergeladene Notebook über ILIAS ab
+* Nach der Abgabe erhalten Sie eine Musterlösung via ILIAS, die sie in Jupyter Lab hochladen und anschauen können
 
-If you don’t have an Azure subscription, create a free account before you begin. Try the [free or paid version of Azure Machine Learning](https://aka.ms/AMLFree) today.
 
 ### 2. Create repository
 
